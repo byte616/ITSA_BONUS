@@ -1,23 +1,3 @@
----
-tags: 20211210
----
-<style>
-    H1, H4 {
-        text-align: center;  /* 題目置中 */
-    }
-    blockquote > P {    /* Blockquote 取消第一行兩格*/
-        text-indent: 0;
-    }
-    .markdown-body > h6 {   /* 讓限制那行離上面近一點 */
-        padding: 0;
-        margin: 0;
-    }
-    .markdown-body > h1 {
-        border-bottom: 0;
-        padding: 0;
-
-    }
-</style>
 # ITSA 加分
 #### 資工二 409410041 陳柏仲
 ## 完成題目
